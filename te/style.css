@@ -1,0 +1,6 @@
+body .left-content p a {
+color:#D75C37;
+}
+.footer_menu > ul > li.current-menu-item > a{
+    color: #f1b525;
+}
